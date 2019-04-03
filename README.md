@@ -1,3 +1,9 @@
+In order to simplify the tedious process of image annotation, here I use mtcnn face detection algorithm to realize automatic face annotation in video.
+Therefore, I rewrote the main content of test. PY.
+
+The following is the original author's description.
+
+
 # mtcnn-pytorch
 pytorch implementation of  face detection algorithm  MTCNN
 
