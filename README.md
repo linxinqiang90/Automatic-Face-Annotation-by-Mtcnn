@@ -1,5 +1,6 @@
-In order to simplify the tedious process of image annotation, here I use mtcnn face detection algorithm to realize automatic face annotation in video.
+In order to simplify the tedious process of image annotation, here I use mtcnn face detection algorithm to realize automatic face annotation in video. Generated txt files and image files can be directly used in Labelimg or used as yolov3 dataset. 
 Therefore, I rewrote the main content of test. PY.
+
 
 The following is the original author's description.
 
